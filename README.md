@@ -34,3 +34,17 @@ A pandas DataFrame `df` is created from the dictionary `d`. The DataFrame includ
 
 #### Plotting
 The DataFrame is plotted using `df.plot()` to visualize the relationship between the number of threads and the time taken for matrix multiplication. Labels and titles are added to the plot for clarity (`plt.xlabel`, `plt.ylabel`, `plt.title`). Finally, `plt.show()` displays the plot.
+
+The table corresponding to the time taken with respect to number of threads is as follows:
+
+<img width="224" alt="Thread Time" src="https://github.com/Raghavdargan/Multithreading_102103042/blob/main/Thread%20time.png">
+
+#### Graph
+![Graph](https://github.com/Raghavdargan/Multithreading_102103042/blob/main/Thread%20time.png)
+
+#### CPU Usage
+![CPU](https://github.com/Raghavdargan/Multithreading_102103042/blob/main/cores.png)
+![CPU](https://github.com/Raghavdargan/Multithreading_102103042/blob/main/cores_2.png)
+
+
+
